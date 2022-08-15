@@ -1,0 +1,17 @@
+{
+    "name": "tcecunifiedext",
+    "displayName": "tcEcUnifiedExt",
+    "description": "uniform code specification",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+    ]
+}
