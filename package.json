@@ -1,7 +1,11 @@
 {
     "name": "tcecunifiedext",
+    "publisher": "mythshuazi@yeah.net",
     "displayName": "tcEcUnifiedExt",
     "description": "uniform code specification",
+    "repository": {
+        "url": "https://github.com/mythshuazi/tcecunifiedext"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.70.0"
